@@ -2,7 +2,7 @@
 
 <br>
 
-**DEFINING THE PROBLEM**
+**DEFINING THE PROBLEM**
 <p align = "justify">
 In the vast world of marketing with a load of competition among retail stores, an e-commerce retail store 
 is facing customer attrition. After a careful study considering all the factors, reasons, and possibilities of the 
