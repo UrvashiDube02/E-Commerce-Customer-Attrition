@@ -9,6 +9,8 @@ is facing customer attrition. After a careful study considering all the factors,
 churn, we are required to build a model to analyze the rate of decreasing customers, tackle the declining rate, 
 as well introduce ways to attract new customers by providing possible solutions. </p>
 
+<br>
+
 **HOW DOES THE MARKET FUNCTION?**
 
 <p align = "justify">
